@@ -1,0 +1,6 @@
+agent_id,agent_name,team,assigned_tickets,resolved_tickets,avg_resolution_hours,sla_breaches,sla_breach_rate_pct
+1,Amit Kumar,Hardware Support,3,2,27.0,0,0.0
+2,Neha Joshi,Software Support,4,3,13.83,3,100.0
+3,Karan Shah,Network Support,3,3,12.0,2,66.67
+4,Meera Rao,Service Desk,3,2,5.75,1,50.0
+5,Dev Malhotra,Infrastructure,2,2,11.0,1,50.0
